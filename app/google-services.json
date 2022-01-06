@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581978845305",
+    "project_id": "tareafirebase-df905",
+    "storage_bucket": "tareafirebase-df905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581978845305:android:17d3262bf0e134ec5624a8",
+        "android_client_info": {
+          "package_name": "com.google.firebase.example.fireeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581978845305-02gmto7ivd7e2a43hb5lbhpid2oigr7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzRRnrYZ080wqfwY8hnntwMSU07Nij5uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581978845305-02gmto7ivd7e2a43hb5lbhpid2oigr7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
